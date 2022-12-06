@@ -28,7 +28,7 @@
     "form-data": "3.0.0",
     "localforage": "1.7.3",
     "lodash": "4.17.4",
-    "qs": "6.9.1",
+    "qs": "6.9.7",
     "sha3": "2.1.1",
     "text-encoding": "0.7.0",
     "uuidv4": "6.0.0"
